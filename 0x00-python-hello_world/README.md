@@ -5,3 +5,4 @@
 5-print_string.py -  this source code in order to print 3 times a string stored in the variable str, followed by its first 9 characters.
 6-concat.py -  source code to print Welcome to Holberton School!
 8-concat_edges.py - Complete this source code to print object-oriented programming with Python
+9-easter_egg.py - a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
