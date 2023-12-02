@@ -14,3 +14,4 @@
 13-insert_number.c, lists.h - a function in C that inserts a number into a sorted singly linked list.
 101-remove_char_at.py - a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
 100-print_tebahpla.py - a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (z in lowercase and Y in uppercase) , not followed by a new line.
+102-magic_calculation.py -  Python function def magic_calculation(a, b, c)
