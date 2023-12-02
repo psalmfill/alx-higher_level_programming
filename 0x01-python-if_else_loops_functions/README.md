@@ -12,3 +12,4 @@
 11-pow.py - a function that computes a to the power of b and return the value.
 12-fizzbuzz.py - a function that prints the numbers from 1 to 100 separated by a space.
 13-insert_number.c, lists.h - a function in C that inserts a number into a sorted singly linked list.
+101-remove_char_at.py - a function that creates a copy of the string, removing the character at the position n (not the Python way, the “C array index”).
