@@ -6,3 +6,4 @@
 5-print_comb2.py - a program that prints numbers from 0 to 99.
 6-print_comb3.py - a program that prints all possible different combinations of two digits.
 7-islower.py - a function that checks for lowercase character.
+8-uppercase.py - a function that prints a string in uppercase followed by a new line.
