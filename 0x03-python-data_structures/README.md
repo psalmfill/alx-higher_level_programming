@@ -10,3 +10,6 @@
 9-max_integer.py - a function that finds the biggest integer of a list.
 10-divisible_by_2.py - a function that finds all multiples of 2 in a list.
 11-delete_at.py - a function that deletes the item at a specific position in a list.
+12-switch.py - the source code in order to switch value of a and b
+13-is_palindrome.c, lists.h - a function in C that checks if a singly linked list is a palindrome.
+100-print_python_list_info.c - a C function that prints some basic info about Python lists.
