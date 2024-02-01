@@ -7,6 +7,6 @@ def safe_print_list(my_list=[], x=0):
             total_printed += 1
         print()
         return total_printed
-    except:
+    except Exception as e:
         print()
         return total_printed
